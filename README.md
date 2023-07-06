@@ -1,7 +1,7 @@
 # <img src="https://github.com/happykoya/happykoya/blob/main/happy_mimi.png?raw=true" width="60" height="60"/>Hello world!! I'm thinking reeds 👋
 
 ### Profile: Age 20!!
-**EP2 / Department of Computer Science / RoboCup@HomePJ**
+**3EP2 / Department of Computer Science / RoboCup@HomePJ**
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happykoya&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
