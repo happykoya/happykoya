@@ -1,6 +1,6 @@
 # <img src="https://github.com/happykoya/happykoya/blob/main/happy_mimi.png?raw=true" width="60" height="60"/>Hello world!! I'm thinking reeds 👋
 
-### Profile: Age 20!!
+### Profile: Age 21!!
 **3EP2 / Department of Computer Science / RoboCup@HomePJ**
 
 ---
