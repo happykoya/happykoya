@@ -1,4 +1,4 @@
-# <img src="https://github.com/happykoya/happykoya/blob/main/happy_mimi.png?raw=true" width="60" height="60"/>Hello World!!   I'm thinking reeds 👋
+# <img src="https://github.com/happykoya/happykoya/blob/main/happy_mimi.png?raw=true" width="60" height="60"/>Hello World!!   I'm a thinking reed 👋
 
 ### Profile: Age 22!!
 **4EP2 / Department of Computer Science / RoboCup@HomePJ**  
